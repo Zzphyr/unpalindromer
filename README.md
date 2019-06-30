@@ -1,5 +1,4 @@
 # unpalindromer
-Converts palindrome to non-palindrome by a single character
 
 *Adapted from the original challenge proposed by Landing Jobs @ Landing Fest 2019.*
 
